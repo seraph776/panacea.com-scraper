@@ -22,8 +22,7 @@ class PreRollSpider(scrapy.Spider):
             pre_roll = PreRollItemLoader(item=PreRollItem(), selector=item)
             pre_roll.add_value('timestamp', PreRollSpider.timestamp)
             pre_roll.add_value('name', item['name'])
-            pre_roll.add_value('price', item['variants'][0]['priceRec'])
-            # This is my attempt to set a None value to cdd potency if there is None.
+            pre_roll.add_value('price', item['variants'][0]['priceRec']) 
             if not item['potencyCbd']['formatted']:
                 cbd_potency = 'None'
             else:
