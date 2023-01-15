@@ -14,6 +14,8 @@
     
 ![image](https://user-images.githubusercontent.com/72005563/212503466-2027e1cb-595d-49dd-a787-ab84fa536e9e.png)
 
+<image src ="https://user-images.githubusercontent.com/72005563/212504042-4e6a8005-3b51-4b8e-8478-aecb00cd8853.png" width="150">
+
 
 
 _Show your support and give this repo a_ ⭐
@@ -23,11 +25,8 @@ _Show your support and give this repo a_ ⭐
 
 ## ℹ️ Info
 
-
-**_Web Scraping_** is the art of extracting and parsing data from websites in an automated fashion using a computer program. 
-In Greek mythology, Panacea is the goddess of universal remedy and healing; she was believed to have a potion that would cure any sickness or disease. 
 This repo scraps cannabis product information from https://panaceawellness.com/ using Python Scrapy. 
-
+In Greek mythology, **Panacea** is the goddess of universal remedy and healing; she was believed to have a potion that would cure any sickness or disease. 
 
 - **Objective**: The objective for this scraping system is to monitor product information for our target keywords and monitor the individual products every day.
 - **Target Data**: We want to store the product information for each keyword and the essential product data (`name`, `price` `cbd_potency`, `tch_potency`, `strain`, `brand`, `effect`, `quantityetc`)
