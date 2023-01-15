@@ -22,8 +22,7 @@ class FlowerSpider(scrapy.Spider):
             flower = FlowerItemLoader(item=FlowerItem(), selector=item)
             flower.add_value('timestamp', FlowerSpider.timestamp)
             flower.add_value('name', item['name'])
-            flower.add_value('price', item['variants'][0]['priceRec'])
-            # This is my attempt to set a None value to cdd potency if there is None.
+            flower.add_value('price', item['variants'][0]['priceRec'])        
             if not item['potencyCbd']['formatted']:
                 cbd_potency = 'None'
             else:
