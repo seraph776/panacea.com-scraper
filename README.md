@@ -107,11 +107,6 @@ For more information read [documentation](https://github.com/seraph776/panacea.c
 Contributions are Welcome! For instructions on how to contribute please read our [Contributing Guidelines](https://github.com/seraph776/panacea.com-scraper/blob/main/CONTRIBUTING.md). 
 
 
-## Discussions
-
-Have any Questions? Visit [Discussions](https://github.com/seraph776/panacea.com-scraper/discussions) which is a space for our community to have conversations, ask questions and post answers without opening issues. Please read our [Code of Conduct](https://github.com/seraph776/panacea.com-scraper/blob/main/CODE-OF-CONDUCT.md) which defines the  standards for engaging with the community!
-
-
 ## Feedback / Questions?
 
 If you have any feedback or questions please contact me at [seraph776@gmail.com](mailto:seraph776@gmail.com)
