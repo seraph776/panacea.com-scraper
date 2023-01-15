@@ -26,7 +26,7 @@ _Show your support and give this repo a_ ⭐
 
 ## ℹ️ Info
 
-This repo scraps cannabis product information from https://panaceawellness.com/ using Python Scrapy. 
+This repo scrapes cannabis product information from https://panaceawellness.com/ using Python Scrapy. 
 In Greek mythology, **Panacea** is the goddess of universal remedy and healing; she was believed to have a potion that would cure any sickness or disease. 
 
 - **Objective**: The objective for this scraping system is to monitor product information for our target keywords and monitor the individual products every day.
