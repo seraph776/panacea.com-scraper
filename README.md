@@ -100,33 +100,6 @@ Instructions on how to create a `pipenv` virtual environment.
 For more information read [documentation](https://github.com/seraph776/panacea.com-scraper).
 
 
-
-## Project Walk Through
-
-<details>
-<summary> 📚 Click to View </summary>
-  
-#### STEP 1: Create Project folder and Install Scrapy 
-
-```commandline
->>> mkdir FakePythonJobs
->>> cd FakePythonJobs
->>> pipenv install scrapy
-```
-#### STEP 2: Create Scrapy Project 
-```commandline
->>> scrapy startproject FakePythonJobs
->>> cd FakePythonJobs
-```
-#### STEP 3: Create Scrapy Spider 
-
-```commandline
->>> scrapy genspider jobs
-```
-</details>
-
-
-
 ## How to Contribute
 
 
