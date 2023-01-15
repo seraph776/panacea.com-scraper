@@ -135,7 +135,7 @@ All donations help fund the continued development of new content.
 
 ## License 
 
-All code in this repository is available under the [MIT License](https://github.com/seraph776/panacea.com-scraper/blob/main/LICENSE) © [Seraph★776](https://github.com/seraph776)
+All code in this repository is available under the [MIT License](https://github.com/seraph776/panacea.com-scraper/blob/main/LICENSE) © [seraph★vega](https://github.com/seraph776)
 
 
 
