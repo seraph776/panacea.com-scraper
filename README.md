@@ -29,7 +29,7 @@ This repo scraps cannabis product information from https://panaceawellness.com/ 
 In Greek mythology, **Panacea** is the goddess of universal remedy and healing; she was believed to have a potion that would cure any sickness or disease. 
 
 - **Objective**: The objective for this scraping system is to monitor product information for our target keywords and monitor the individual products every day.
-- **Target Data**: We want to store the product information for each keyword and the essential product data (`name`, `price` `cbd_potency`, `tch_potency`, `strain`, `brand`, `effect`, `quantityetc`)
+- **Target Data**: We want to store the product information for each keyword and the essential product data (`name`, `price` `cbd_potency`, `tch_potency`, `strain`, `brand`, `effect`, `quantity`, etc)
 - **Scale**: This will be a relatively small scale scraping process (handful of categories: `flower`, `pre-rolls`, `concentrates`), so no need to design a more sophisticated infrastructure.
 - **Data Storage**: We will store the data to a `CSV` , and `JSON` file.
 
